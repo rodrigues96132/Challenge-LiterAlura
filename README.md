@@ -1,4 +1,4 @@
-##Desafio LiterAlura - Catálogo de Livros
+## Desafio LiterAlura - Catálogo de Livros
 
 **Descrição**
 O Desafio LiterAlura consiste na construção de um catálogo de livros utilizando Java, Spring, Postgres e a API Gutendex, que oferece dados de mais de 70 mil livros. O objetivo é praticar o consumo de uma API e a persistência de dados em um banco de dados relacional.
